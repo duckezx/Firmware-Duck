@@ -1,4 +1,7 @@
 # Firmware-Duck
+Firmware Feito para ESP32 DevkitC Oled SSD1306 Teclado 5 keyboards
+Desenvolvido por: João Barros e Juan Marcos
+
 Termo de Uso e Isenção de Responsabilidade
 
 Este software foi desenvolvido exclusivamente para fins educacionais, acadêmicos, de pesquisa e testes autorizados em ambientes controlados.
